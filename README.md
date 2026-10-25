@@ -155,10 +155,10 @@ The SETI update is conditional on the selected survey assumptions and effective-
 
 ## Validation
 
-The merged code was checked by compiling every Python file and running the revision test suite before packaging. Reduced baseline, semantic-bridge/BMA, layered-variance, observation-informed, clustering, and configuration-count workflows were also checked during development.
+The merged code, clustering and other workflows were checked.
 
 ## Citation and license
 
-Citation metadata are provided in `CITATION.cff`. Add the Zenodo DOI after the archived release is created.
+Citation metadata are provided in `CITATION.cff`. 
 
 The software is distributed under the MIT License in `LICENSE.md`.
